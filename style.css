@@ -1,0 +1,27 @@
+html,
+body {
+    height: 100%;
+}
+
+.text_box {
+    padding: 30px;
+    width: 100%;
+    align-content: center;
+    border: 1px solid #eeeeee;
+}
+
+#container{
+    width: 80%;
+    height: 60%;
+    background-color: rgb(196, 239, 252);
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 25px;
+}
+
+.center_input {
+    width: 40%;
+    display: flex;
+    margin: 20px auto auto;
+}
